@@ -1,15 +1,25 @@
 # Dimension-Reduction-Using-Autoencoder
 
 Table of Contents
+
 Step 1 – Importing all required libraries.
+
 Step 2 – Reading our input data.
+
 Step 3 – Checking info of our data.
+
 Step 4 – Scaling our data for Dimensionality Reduction using Autoencoders.
+
 Step 5 – Defining no. of nodes in layers.
+
 Step 6 – Building the model for Dimensionality Reduction using Autoencoders.
+
 Step 7 – Let’s train the model for Dimensionality Reduction using Autoencoders.
+
 Step 8 – Take the output from the middle layer.
+
 Step 9 – Checking the output shape of our result.
+
 Step 10 – Plotting our results for Dimensionality Reduction using Autoencoders.
 
 
